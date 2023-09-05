@@ -97,9 +97,9 @@
   text: '{:width 85}Sword of the Ancestor'
 - id: 1503
   text: >-
-     Ping, how could you miss?
+    Ping, how could you miss?
 
-     THEY WERE RIGHT IN FRONT OF YOU!
+    THEY WERE RIGHT IN FRONT OF YOU!
 - id: 1507
   text: Yeet
 - id: 1511
@@ -415,8 +415,7 @@
 - id: 14743
   text: Counterguard
 - id: 14744
-  text: >-
-    Parry this you fucking casual!
+  text: Parry this you fucking casual!
 - id: 14745
   text: Aerial Sweep
 - id: 14746
@@ -520,18 +519,15 @@
 - id: 15133
   text: Cursed Medallion
 - id: 15134
-  text: >-
-    881 more to go...
+  text: 881 more to go...
 - id: 15135
   text: Present
 - id: 15136
-  text: >-
-    It better not be what i think it is in there!.
+  text: It better not be what i think it is in there!.
 - id: 15137
   text: Decoy Presents
 - id: 15138
-  text: >-
-    FAKE!
+  text: FAKE!
 - id: 15139
   text: Ice Cream
 - id: 15140
@@ -612,8 +608,7 @@
 - id: 15336
   text: Combination Boost
 - id: 15337
-  text: >-
-    You don't really need that long, anyway...
+  text: You don't really need that long, anyway...
 - id: 15338
   text: Experience Boost
 - id: 15339
@@ -786,7 +781,8 @@
 - id: 15943
   text: >-
     Aren't you glad you
-     wasted all your fucking time in Atlantica?
+
+    wasted all your fucking time in Atlantica?
 - id: 15944
   text: Fatal Crest
 - id: 15945
@@ -794,7 +790,10 @@
 - id: 15946
   text: Bond of Flame
 - id: 15947
-  text: "Yeah, Axel is dead for real this time...\nPromise... "
+  text: >-
+    Yeah, Axel is dead for real this time...
+
+    Promise...
 - id: 15948
   text: Fenrir
 - id: 15949
@@ -865,10 +864,10 @@
 - id: 20014
   text: Damage Control
 - id: 20015
-  text: >-
-     Increases defense by {:color #F0F00080}50%{:reset} in a pinch.
+  text: 
+    Increases defense by {:color #F0F00080}50%{:reset} in a pinch.
 
-     Not to be confused with Defender
+    Not to be confused with Defender
 - id: 20016
   text: Critical Mode
 - id: 20017
@@ -912,10 +911,10 @@
 - id: 20086
   text: Magnet Burst
 - id: 20087
-  text: >-
-     Get over here!
+  text: ->
+    Get over here!
 
-     And then away from here!
+    And then away from here!
 - id: 20088
   text: Vicinity Break
 - id: 20089
