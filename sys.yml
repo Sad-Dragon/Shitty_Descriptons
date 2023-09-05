@@ -865,7 +865,7 @@
 - id: 20014
   text: Damage Control
 - id: 20015
-  text: 
+  text: >-
      Increases defense by {:color #F0F00080}50%{:reset} in a pinch.
 
      Not to be confused with Defender
@@ -912,7 +912,7 @@
 - id: 20086
   text: Magnet Burst
 - id: 20087
-  text: ->
+  text: >-
      Get over here!
 
      And then away from here!
