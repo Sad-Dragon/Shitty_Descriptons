@@ -248,18 +248,18 @@
 - id: 13066
   text: >-
     It's Lacroix!
-     {:color #F0F00080}MP Cost: 99{:reset}
+    {:color #F0F00080}MP Cost: 99{:reset}
   text: Cure Potion
 - id: 13087
   text: >-
     Restores the Party´s HP. But better than Donald.
-     {:color #F0F00080}MP Cost: 99{:reset}
+    {:color #F0F00080}MP Cost: 99{:reset}
 - id: 13092
   text: Healing Herb
 - id: 13093
   text: >-
     Is that what we're calling it now?
-     {:color #F0F00080}MP Cost: 99{:reset}
+    {:color #F0F00080}MP Cost: 99{:reset}
 - id: 13109
   text: Trinity Limit
 - id: 13110
@@ -538,7 +538,7 @@
 - id: 15141
   text: Picture
 - id: 15142
-  text: You got the [     ] back!
+  text: You got the [    ] back!
 - id: 15226
   text: Amogus Charm
 - id: 15227
@@ -911,7 +911,7 @@
 - id: 20086
   text: Magnet Burst
 - id: 20087
-  text: ->
+  text: >-
     Get over here!
 
     And then away from here!
