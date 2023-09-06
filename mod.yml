@@ -2,7 +2,10 @@
 title: Shitty Descriptions
 description: Renames most abilities, keyblades, and some items to have unhelpful descriptions.
 assets:
-- name: msg/us/sys.bar
+- name: msg/jp/sys.bar
+  multi:
+  - name: msg/us/sys.bar
+  - name: msg/uk/sys.bar
   method: binarc
   source:
   - name: sys
