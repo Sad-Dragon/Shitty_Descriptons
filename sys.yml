@@ -3,13 +3,13 @@
 - id: 760
   text: Potion
 - id: 761
-  text: |-
+  text: >-
     You eat it and your health go up.
     An equippable item.
 - id: 762
   text: Hi-Potion
 - id: 763
-  text: |-
+  text: >-
     Hello to you too, Potion!
     An equippable item.
 - id: 764
@@ -19,13 +19,13 @@
 - id: 766
   text: Elixir
 - id: 767
-  text: |-
+  text: >-
     Do not trust Donald and Goofy with these.
     An equippable item.
 - id: 768
   text: Mega-Potion
 - id: 769
-  text: |-
+  text: >-
     Heal your dumbass team members.
     An equippable item.
 - id: 770
@@ -35,7 +35,7 @@
 - id: 772
   text: Megalixir
 - id: 773
-  text: |-
+  text: >-
     {:width 120}{:scale 20}UNLIMITED POWER. {:reset}
     An equippable item.
 - id: 1093
@@ -57,11 +57,11 @@
 - id: 1138
   text: Auron is too cool to hang out with you losers
 - id: 1148
-  text: |-
+  text: >-
     Ping will be joining the party and cannot be
     switched out for some time. Learn to live with it.
 - id: 1453
-  text: |-
+  text: >-
     Pitch one.
     Usable only from the Main Menu.
 - id: 1474
@@ -75,7 +75,7 @@
 - id: 1478
   text: Oblivion
 - id: 1479
-  text: |-
+  text: >-
     The head is made of the kanji for "darkness." 
     As if it was hard to tell what this things' deal was.
 - id: 1499
@@ -87,7 +87,7 @@
 - id: 1502
   text: "{:width 85}Sword of the Ancestor"
 - id: 1503
-  text: |-
+  text: >-
     Ping, how could you miss?
     THEY WERE RIGHT IN FRONT OF YOU!
 - id: 1507
@@ -109,7 +109,7 @@
 - id: 1518
   text: Way to the Dawn
 - id: 1519
-  text: |-
+  text: >-
     Better than Braveheart.
     Yeah i said it.
 - id: 1522
@@ -177,7 +177,7 @@
 - id: 1609
   text: Finally
 - id: 1645
-  text: |-
+  text: >-
     Not many players know this...
     If you press {:icon dynamic-square}, you can block shit.
 - id: 2625
@@ -189,9 +189,9 @@
 - id: 7777
   text: Send a mofo to the moon by using {:icon dynamic-square} during a combo.
 - id: 8052
-  text: Let's you see green bars.
+  text: Lets you see green bars.
 - id: 10329
-  text: |-
+  text: >-
     Recover with {:icon dynamic-circle} when
     getting juggled.
 - id: 10332
@@ -223,7 +223,7 @@
 - id: 13049
   text: Donald Cure
 - id: 13050
-  text: |-
+  text: >-
     Bold of you to assume he'll stay alive
     long enough for him to use it.
     {:color #F0F00080}MP Cost: All{:reset}
@@ -241,104 +241,104 @@
 - id: 13109
   text: Trinity Limit
 - id: 13110
-  text: |-
+  text: >-
     The power of Friendship in the palm of your hand.
     Consumes all of Sora´s MP.
 - id: 13111
   text: Fantasia
 - id: 13112
-  text: |-
+  text: >-
     Duck Flare but with less rockets.
     Consumes all of Sora´s MP.
 - id: 13113
   text: Flare Force
 - id: 13114
-  text: |-
+  text: >-
     Fantasia but with more rockets.
     Consumes all of Sora´s MP.
 - id: 13115
   text: Tornado Fusion
 - id: 13116
-  text: |-
+  text: >-
     Let it RIP!
     Consumes all of Sora´s MP.
 - id: 13117
   text: Teamwork
 - id: 13118
-  text: |-
+  text: >-
     This bitch empty. YEET!
     Consumes all of Sora´s MP.
 - id: 13119
   text: Trick Fantasy
 - id: 13120
-  text: |-
+  text: >-
     Speed. I am speed.
     Consumes all of Sora´s MP.
 - id: 13121
   text: Overdrive
 - id: 13122
-  text: |-
+  text: >-
     Twofold Pain.
     Consumes all of Sora´s MP.
 - id: 13123
   text: Howling Moon
 - id: 13124
-  text: |-
+  text: >-
     The ol' "Dark Thorn Jumpin Growl!"
     Consumes all of Sora´s MP.
 - id: 13125
   text: Applause, Applause
 - id: 13126
-  text: |-
+  text: >-
     SPEEN
     Consumes all of Sora´s MP.
 - id: 13127
   text: Dragonblaze
 - id: 13128
-  text: |-
+  text: >-
     Red Rocket.
     Consumes all of Sora´s MP.
 - id: 13129
   text: Eternal Session
 - id: 13130
-  text: |-
+  text: >-
     This was so god damn cool to me as a kid...
     Still is.
     Consumes all of Sora´s MP.
 - id: 13131
   text: King´s Pride
 - id: 13132
-  text: |-
+  text: >-
     pounces on u.
     owo
     Consumes all of Sora´s MP.
 - id: 13133
   text: Treasure Isle
 - id: 13134
-  text: |-
+  text: >-
     Ok let's be honest.
     Who actually uses this?
     Consumes all of Sora´s MP.
 - id: 13135
   text: "{:width 90}Complete Compilement"
 - id: 13136
-  text: |-
+  text: >-
     I'm In.
     Consumes all of Sora´s MP.
 - id: 14135
   text: Boring :/
 - id: 14139
-  text: |-
+  text: >-
     {:width 95}Super Weenie Hut Juniors
     The Game Mode cannot be changed once
     the game has started.
 - id: 14140
-  text: |-
+  text: >-
     {:width 95}Weenie Hut Juniors.
     The Game Mode cannot be changed
     once the game has started.
 - id: 14141
-  text: |-
+  text: >-
     {:width 95}Salty Spitoon.
     The Game Mode cannot be changed once
     the game has started.
@@ -347,7 +347,7 @@
 - id: 14733
   text: Dodge Slash
 - id: 14734
-  text: |-
+  text: >-
     Swing your Keyblade around like a dumbass.
     Causes you to drop your combos.
 - id: 14735
@@ -373,7 +373,7 @@
 - id: 14745
   text: Aerial Sweep
 - id: 14746
-  text: |-
+  text: >-
     Did you want your ground combo to be an air one?
     No? Too bad!
 - id: 14747
@@ -393,37 +393,37 @@
 - id: 14754
   text: Spicy Aerial Recovery
 - id: 14810
-  text: |-
+  text: >-
     You eat it and your drive gauge go up.
     Usable only from the Main Menu.
 - id: 14811
   text: High Drive Recovery
 - id: 14812
-  text: |-
+  text: >-
     You got Anti-Form, didn't you...
     Usable only from the Main Menu.
 - id: 14813
   text: Power Boost
 - id: 14814
-  text: |-
+  text: >-
     Tastes like cherries.
     Don't give this to Donald or Goofy.
 - id: 14815
   text: Magic Boost
 - id: 14816
-  text: |-
+  text: >-
     Tastes like cabbage.
     Don't give this to Donald or Goofy.
 - id: 14817
   text: Defense Boost
 - id: 14818
-  text: |-
+  text: >-
     Tastes like lemons.
     Don't give this to Donald or Goofy.
 - id: 14819
   text: AP Boost
 - id: 14820
-  text: |-
+  text: >-
     Snack on like 20 of these at once.
     Don't give this to Donald or Goofy.
 - id: 14924
@@ -475,7 +475,7 @@
 - id: 15139
   text: Ice Cream
 - id: 15140
-  text: |-
+  text: >-
     The only food in Twilight Town.
     Scrooge really did them a favor...
 - id: 15141
@@ -553,7 +553,7 @@
 - id: 15338
   text: Experience Boost
 - id: 15339
-  text: |-
+  text: >-
     Get 100% more EXP!
     If you can tolerate the beeping...
 - id: 15340
@@ -607,7 +607,7 @@
 - id: 15364
   text: Defender
 - id: 15365
-  text: |-
+  text: >-
     Increases defense by {:color #F0F00080}3{:reset} in a pinch.
     Not to be confused with Damage Control.
 - id: 15366
@@ -621,7 +621,7 @@
 - id: 15370
   text: Auto Limit
 - id: 15371
-  text: |-
+  text: >-
     Not to be confused with "Auto Limit"
     Completely Different.
 - id: 15372
@@ -671,7 +671,7 @@
 - id: 15924
   text: Circle of Life
 - id: 15925
-  text: |-
+  text: >-
     You fight like a lion!
     A Lion!
 - id: 15926
@@ -681,7 +681,7 @@
 - id: 15928
   text: Gull Wing
 - id: 15929
-  text: |-
+  text: >-
     Wing Wing Wing
     Hewwo?
 - id: 15930
@@ -699,7 +699,7 @@
 - id: 15936
   text: Decisive Pumpkin
 - id: 15937
-  text: |-
+  text: >-
     heheheh
     D.P.
 - id: 15938
@@ -713,7 +713,7 @@
 - id: 15942
   text: Mysterious Abyss
 - id: 15943
-  text: |-
+  text: >-
     Aren't you glad you
     wasted all your fucking time in Atlantica?
 - id: 15944
@@ -723,7 +723,7 @@
 - id: 15946
   text: Bond of Flame
 - id: 15947
-  text: |-
+  text: >-
     Yeah, Axel is dead for real this time...
     Promise...
 - id: 15948
@@ -751,16 +751,16 @@
 - id: 15959
   text: The King can take care of himself...
 - id: 17204
-  text: |-
+  text: >-
     Super Weenie Hut Juniors.
     {:color #F0F00080}(Only the normal ending can be viewed
     in this mode.)
 - id: 17205
-  text: |-
+  text: >-
     Weenie Hut Juniors.
     {:color #F0F00080}(All endings can be viewed in this mode.)
 - id: 17206
-  text: |-
+  text: >-
     Salty Spitoon.
     {:color #F0F00080}(There is a good chance of unlocking
     the secret ending.)
@@ -791,13 +791,13 @@
 - id: 20014
   text: Damage Control
 - id: 20015
-  text: |-
+  text: >-
     Increases defense by {:color #F0F00080}50%{:reset} in a pinch.
     Not to be confused with Defender
 - id: 20016
   text: Critical Mode
 - id: 20017
-  text: |-
+  text: >-
     The Saltiest Possible Spitoon
     The Game Mode cannot be changed
     once the game has started.
@@ -806,7 +806,7 @@
 - id: 20019
   text: Critical Mode
 - id: 20020
-  text: |-
+  text: >-
     The Saltiest Possible Spitoon
     {:color #F0F00080}(There is a great chance of unlocking
     the secret ending.)
@@ -817,7 +817,7 @@
 - id: 20023
   text: Winner's Proof
 - id: 20024
-  text: |-
+  text: >-
     A cute keyblade!
     Not mushroom for debate...
 - id: 20083
@@ -825,13 +825,13 @@
 - id: 20084
   text: Aerial Dive
 - id: 20085
-  text: |-
+  text: >-
     Lets you use a spiral attack
     on enemies in the air.
 - id: 20086
   text: Magnet Burst
 - id: 20087
-  text: |-
+  text: >-
     Get over here!
     And then away from here!
 - id: 20088
@@ -841,7 +841,7 @@
 - id: 20098
   text: Nastalgia Power!
 - id: 20108
-  text: |-
+  text: >-
     Not to be confused with Auto Limit.
     No relation
 - id: 20398
@@ -853,6 +853,6 @@
 - id: 20401
   text: Proof of Peace
 - id: 20402
-  text: |-
+  text: >-
     PLEEEEEEEEEEEEASE
     OH BABY!
