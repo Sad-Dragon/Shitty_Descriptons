@@ -1,942 +1,942 @@
 ﻿- id: 618
-  en: Bear Yeetery
+  text: Bear Yeetery
 - id: 760
-  en: Potion
+  text: Potion
 - id: 761
-  en: >-
+  text: >-
     You eat it and your health go up.
 
     An equippable item.
 - id: 762
-  en: Hi-Potion
+  text: Hi-Potion
 - id: 763
-  en: >-
+  text: >-
     Hello to you too, Potion!
 
     An equippable item.
 - id: 764
-  en: Ether
+  text: Ether
 - id: 765
-  en: Reflect juice. An equippable item.{:reset}
+  text: Reflect juice. An equippable item.
 - id: 766
-  en: Elixir
+  text: Elixir
 - id: 767
-  en: >-
+  text: >-
     Do not trust Donald and Goofy with these.
 
     An equippable item.
 - id: 768
-  en: Mega-Potion
+  text: Mega-Potion
 - id: 769
-  en: >-
+  text: >-
     Heal your dumbass team members.
 
     An equippable item.
 - id: 770
-  en: Mega-Ether
+  text: Mega-Ether
 - id: 771
-  en: Ok Donald, now can you try healing me this time?. An equippable item.{:reset}
+  text: Ok Donald, now can you try healing me this time?. An equippable item.{:reset}
 - id: 772
-  en: Megalixir
+  text: Megalixir
 - id: 773
-  en: >-
+  text: >-
     {:width 120}{:scale 20}UNLIMITED POWER. {:reset}
 
     An equippable item.
 - id: 1093
-  en: '{:position 30,28}Sure w/e'
+  text: '{:position 30,28}Sure w/e'
 - id: 1094
-  en: '{:position 30,28}Yup'
+  text: '{:position 30,28}Yup'
 - id: 1095
-  en: '{:position 25,28}Nope'
+  text: '{:position 25,28}Nope'
 - id: 1096
-  en: –––
+  text: –––
 - id: 1097
-  en: 	Nuh uh
+  text: 	Nuh uh
 - id: 1098
-  en: But nobody came...
+  text: But nobody came...
 - id: 1136
-  en: Can't believe he's dead for real
+  text: Can't believe he's dead for real
 - id: 1137
-  en: Jack was here for like 2 seconds, wtf
+  text: Jack was here for like 2 seconds, wtf
 - id: 1138
-  en: Auron is too cool to hang out with you losers
+  text: Auron is too cool to hang out with you losers
 - id: 1148
-  en: >-
+  text: >-
     Ping will be joining the party and cannot be
 
     switched out for some time. Learn to live with it.
 - id: 1453
-  en: >-
+  text: >-
     Pitch one.
 
     Usable only from the Main Menu.
 - id: 1474
-  en: Kingdom Key
+  text: Kingdom Key
 - id: 1475
-  en: The one and only keyblade...
+  text: The one and only keyblade...
 - id: 1476
-  en: Oathkeeper
+  text: Oathkeeper
 - id: 1477
-  en: Built out of Light-weight materials.
+  text: Built out of Light-weight materials.
 - id: 1478
-  en: Oblivion
+  text: Oblivion
 - id: 1479
-  en: >-
+  text: >-
     The head is made of the kanji for "darkness." 
 
     As if it was hard to tell what this things' deal was.
 - id: 1499
-  en: >-
+  text: >-
     He's got a sword!
 - id: 1500
-  en: Battlefields of War
+  text: Battlefields of War
 - id: 1501
-  en: Pain is only onefold.
+  text: Pain is only onefold.
 - id: 1502
-  en: '{:width 85}Sword of the Ancestor'
+  text: '{:width 85}Sword of the Ancestor'
 - id: 1503
-  en: >-
+  text: >-
     Ping, how could you miss?
 
     THEY WERE RIGHT IN FRONT OF YOU!
 - id: 1507
-  en: Yeet
+  text: Yeet
 - id: 1511
-  en: ' You have bear fists?'
+  text: ' You have bear fists?'
 - id: 1512
-  en: Bone Fist
+  text: Bone Fist
 - id: 1513
-  en: ' You have bone fists?'
+  text: ' You have bone fists?'
 - id: 1514
-  en: Proud Fang
+  text: Proud Fang
 - id: 1515
-  en: ' #pride'
+  text: ' #pride'
 - id: 1516
-  en: '{:width 91}Skill and Crossbones'
+  text: '{:width 91}Skill and Crossbones'
 - id: 1517
-  en: For the last time, it isn't a typo!
+  text: For the last time, it isn't a typo!
 - id: 1518
-  en: Way to the Dawn
+  text: Way to the Dawn
 - id: 1519
-  en: >-
+  text: >-
     Better than Braveheart.
 
     Yeah i said it.
 - id: 1522
-  en: Torn Pages
+  text: Torn Pages
 - id: 1523
-  en: One step closer to yeeting the bear...
+  text: One step closer to yeeting the bear...
 - id: 1589
-  en: >-
+  text: >-
     Burn anything that is 4 inches near you.
 
     {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 12{:reset}
 - id: 1590
-  en: Blizzard Element
+  text: Blizzard Element
 - id: 1591
-  en: >-
+  text: >-
     DEEP FREEZE.
 
     {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 15{:reset}
 - id: 1592
-  en: Thunder Element
+  text: Thunder Element
 - id: 1593
-  en: >-
+  text: >-
     zap.
 
     {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 18{:reset}
 - id: 1594
-  en: Cure Element
+  text: Cure Element
 - id: 1595
-  en: >-
+  text: >-
     For when Donald dies.
 
     {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} All{:reset}
 - id: 1596
-  en: Magnet Element
+  text: Magnet Element
 - id: 1597
-  en: >-
+  text: >-
     Gather deez nuts.
 
     {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 30{:reset}
 - id: 1598
-  en: Reflect Element
+  text: Reflect Element
 - id: 1599
-  en: >-
+  text: >-
     Blocked and reported.
 
     {:width 90}Use from the Magic Command. {:color #F0F00080}MP Cost:{:width 100} 10{:reset}
 - id: 1600
-  en: Ukulele Charm
+  text: Ukulele Charm
 - id: 1601
-  en: Meega, nala kweesta!.
+  text: Meega, nala kweesta!.
 - id: 1602
-  en: Valor Form
+  text: Valor Form
 - id: 1603
-  en: Roxas does it better.
+  text: Roxas does it better.
 - id: 1604
-  en: Wisdom Form
+  text: Wisdom Form
 - id: 1605
-  en: Pew pew pew!
+  text: Pew pew pew!
 - id: 1606
-  en: Master Form
+  text: Master Form
 - id: 1607
-  en: >-
+  text: >-
     Drive Converter time
 - id: 1608
-  en: Final Form
+  text: Final Form
 - id: 1609
-  en: Finally
+  text: Finally
 - id: 1645
-  en: >-
+  text: >-
     Not many players know this...
 
     If you press {:icon dynamic-square}, you can block shit.
 - id: 2625
-  en: Tifa's Chest
+  text: Tifa's Chest
 - id: 2741
-  en: Mickey, please
+  text: Mickey, please
 - id: 2742
-  en: Guess I'll die...
+  text: Guess I'll die...
 - id: 7777
-  en: Send a mofo to the moon by using {:icon dynamic-square} during a combo.
+  text: Send a mofo to the moon by using {:icon dynamic-square} during a combo.
 - id: 8052
-  en: Let's you see green bars.
+  text: Let's you see green bars.
 - id: 10329
-  en: >-
+  text: >-
     Recover with {:icon dynamic-circle} when
 
     getting juggled.
 - id: 10332
-  en: D'oh
+  text: D'oh
 - id: 10333
-  en: Feather Charm
+  text: Feather Charm
 - id: 10334
-  en: Hey Peter!
+  text: Hey Peter!
 - id: 12131
-  en: Combo Plus
+  text: Combo Plus
 - id: 12132
-  en: Lets you spam reflect more.
+  text: Lets you spam reflect more.
 - id: 12133
-  en: Air Combo Plus
+  text: Air Combo Plus
 - id: 12134
-  en: Lets you spam Horizontal Slash more.
+  text: Lets you spam Horizontal Slash more.
 - id: 12932
-  en: GET UP ON THE HYDRA'S BACK
+  text: GET UP ON THE HYDRA'S BACK
 - id: 13044
-  en: 'How come Donald gets KH1 Fire? {:color #F0F00080}MP Cost: 10{:reset}'
+  text: 'How come Donald gets KH1 Fire? {:color #F0F00080}MP Cost: 10{:reset}'
 - id: 13045
-  en: Donald Blizzard
+  text: Donald Blizzard
 - id: 13046
-  en: "Donald's got it. {:color #F0F00080}MP Cost: 10{:reset}"
+  text: "Donald's got it. {:color #F0F00080}MP Cost: 10{:reset}"
 - id: 13047
-  en: Donald Thunder
+  text: Donald Thunder
 - id: 13048
-  en: 'He uses this instead of Cure... {:color #F0F00080}MP Cost: 10{:reset}'
+  text: 'He uses this instead of Cure... {:color #F0F00080}MP Cost: 10{:reset}'
 - id: 13049
-  en: Donald Cure
+  text: Donald Cure
 - id: 13050
-  en: >-
+  text: >-
     Bold of you to assume he'll stay alive
 
     long enough for him to use it.
 
     {:color #F0F00080}MP Cost: All{:reset}
 - id: 13065
-  en: Healing Water
+  text: Healing Water
 - id: 13066
-  en: >-
+  text: >-
     It's Lacroix!
     {:color #F0F00080}MP Cost: 99{:reset}
-  en: Cure Potion
+  text: Cure Potion
 - id: 13087
-  en: >-
+  text: >-
     Restores the Party´s HP. But better than Donald.
     {:color #F0F00080}MP Cost: 99{:reset}
 - id: 13092
-  en: Healing Herb
+  text: Healing Herb
 - id: 13093
-  en: >-
+  text: >-
     Is that what we're calling it now?
     {:color #F0F00080}MP Cost: 99{:reset}
 - id: 13109
-  en: Trinity Limit
+  text: Trinity Limit
 - id: 13110
-  en: >-
+  text: >-
     The power of Friendship in the palm of your hand.
 
     Consumes all of Sora´s MP.
 - id: 13111
-  en: Fantasia
+  text: Fantasia
 - id: 13112
-  en: >-
+  text: >-
     Duck Flare but with less rockets.
 
     Consumes all of Sora´s MP.
 - id: 13113
-  en: Flare Force
+  text: Flare Force
 - id: 13114
-  en: >-
+  text: >-
     Fantasia but with more rockets.
 
     Consumes all of Sora´s MP.
 - id: 13115
-  en: Tornado Fusion
+  text: Tornado Fusion
 - id: 13116
-  en: >-
+  text: >-
     Let it RIP!
 
     Consumes all of Sora´s MP.
 - id: 13117
-  en: Teamwork
+  text: Teamwork
 - id: 13118
-  en: >-
+  text: >-
     This bitch empty. YEET!
 
     Consumes all of Sora´s MP.
 - id: 13119
-  en: Trick Fantasy
+  text: Trick Fantasy
 - id: 13120
-  en: >-
+  text: >-
     Speed. I am speed.
 
     Consumes all of Sora´s MP.
 - id: 13121
-  en: Overdrive
+  text: Overdrive
 - id: 13122
-  en: >-
+  text: >-
     Twofold Pain.
 
     Consumes all of Sora´s MP.
 - id: 13123
-  en: Howling Moon
+  text: Howling Moon
 - id: 13124
-  en: >-
+  text: >-
     The ol' "Dark Thorn Jumpin Growl!"
 
     Consumes all of Sora´s MP.
 - id: 13125
-  en: Applause, Applause
+  text: Applause, Applause
 - id: 13126
-  en: >-
+  text: >-
     SPEEN
 
     Consumes all of Sora´s MP.
 - id: 13127
-  en: Dragonblaze
+  text: Dragonblaze
 - id: 13128
-  en: >-
+  text: >-
     Red Rocket.
 
     Consumes all of Sora´s MP.
 - id: 13129
-  en: Eternal Session
+  text: Eternal Session
 - id: 13130
-  en: >-
+  text: >-
     This was so god damn cool to me as a kid...
 
     Still is.
 
     Consumes all of Sora´s MP.
 - id: 13131
-  en: King´s Pride
+  text: King´s Pride
 - id: 13132
-  en: >-
+  text: >-
     pounces on u.
 
     owo
 
     Consumes all of Sora´s MP.
 - id: 13133
-  en: Treasure Isle
+  text: Treasure Isle
 - id: 13134
-  en: >-
+  text: >-
     Ok let's be honest.
 
     Who actually uses this?
 
     Consumes all of Sora´s MP.
 - id: 13135
-  en: '{:width 90}Complete Compilement'
+  text: '{:width 90}Complete Compilement'
 - id: 13136
-  en: >-
+  text: >-
     I'm In.
 
     Consumes all of Sora´s MP.
 - id: 14135
-  en: Boring :/
+  text: Boring :/
 - id: 14139
-  en: >-
+  text: >-
     {:width 95}Super Weenie Hut Juniors
 
     The Game Mode cannot be changed once
 
     the game has started.
 - id: 14140
-  en: >-
+  text: >-
     {:width 95}Weenie Hut Juniors.
 
     The Game Mode cannot be changed
 
     once the game has started.
 - id: 14141
-  en: >-
+  text: >-
     {:width 95}Salty Spitoon.
 
     The Game Mode cannot be changed once
 
     the game has started.
 - id: 14732
-  en: A little love tap.
+  text: A little love tap.
 - id: 14733
-  en: Dodge Slash
+  text: Dodge Slash
 - id: 14734
-  en: >-
+  text: >-
     Swing your Keyblade around like a dumbass.
 
     Causes you to drop your combos.
 - id: 14735
-  en: Slide Dash
+  text: Slide Dash
 - id: 14736
-  en: Teleports behind u
+  text: Teleports behind u
 - id: 14737
-  en: Guard Break
+  text: Guard Break
 - id: 14738
-  en: They killed Aerith with this
+  text: They killed Aerith with this
 - id: 14739
-  en: Explosion
+  text: Explosion
 - id: 14740
-  en: SKIBBIDI BOP MM DADA
+  text: SKIBBIDI BOP MM DADA
 - id: 14741
-  en: Finishing Leap
+  text: Finishing Leap
 - id: 14742
-  en: Diet Explosion
+  text: Diet Explosion
 - id: 14743
-  en: Counterguard
+  text: Counterguard
 - id: 14744
-  en: Parry this you fucking casual!
+  text: Parry this you fucking casual!
 - id: 14745
-  en: Aerial Sweep
+  text: Aerial Sweep
 - id: 14746
-  en: >-
+  text: >-
     Did you want your ground combo to be an air one?
 
     No? Too bad!
 - id: 14747
-  en: Aerial Spiral
+  text: Aerial Spiral
 - id: 14748
-  en: Dives in on enemies in the air.
+  text: Dives in on enemies in the air.
 - id: 14749
-  en: Horizontal Slash
+  text: Horizontal Slash
 - id: 14750
-  en: Press {:icon dynamic-square} in the air to win at Grandstander.
+  text: Press {:icon dynamic-square} in the air to win at Grandstander.
 - id: 14751
-  en: Aerial Finish
+  text: Aerial Finish
 - id: 14752
-  en: The poopy finisher
+  text: The poopy finisher
 - id: 14753
-  en: Retaliating Slash
+  text: Retaliating Slash
 - id: 14754
-  en: Spicy Aerial Recovery
-  en: Drive Recovery
+  text: Spicy Aerial Recovery
+  text: Drive Recovery
 - id: 14810
-  en: >-
+  text: >-
     You eat it and your drive gague go up.
 
     Usable only from the Main Menu.
 - id: 14811
-  en: High Drive Recovery
+  text: High Drive Recovery
 - id: 14812
-  en: >-
+  text: >-
     You got Anti-Form, didn't you...
 
     Usable only from the Main Menu.
 - id: 14813
-  en: Power Boost
+  text: Power Boost
 - id: 14814
-  en: >-
+  text: >-
     Tastes like cherries.
 
     Don't give this to Donald or Goofy.
 - id: 14815
-  en: Magic Boost
+  text: Magic Boost
 - id: 14816
-  en: >-
+  text: >-
     Tastes like cabbage.
 
     Don't give this to Donald or Goofy.
 - id: 14817
-  en: Defense Boost
+  text: Defense Boost
 - id: 14818
-  en: >-
+  text: >-
     Tastes like lemons.
 
     Don't give this to Donald or Goofy.
 - id: 14819
-  en: AP Boost
+  text: AP Boost
 - id: 14820
-  en: >-
+  text: >-
     Snack on like 20 of these at once.
 
     Don't give this to Donald or Goofy.
-  en: Draw Ring
+  text: Draw Ring
 - id: 14924
-  en: how bri'ish people say "drawing"
+  text: how bri'ish people say "drawing"
 - id: 15114
-  en: FIVE THOUSAND DOLLARY DOOS!?
+  text: FIVE THOUSAND DOLLARY DOOS!?
 - id: 15115
-  en: Crystal Orb
+  text: Crystal Orb
 - id: 15116
-  en: looks tasty.
+  text: looks tasty.
 - id: 15120
-  en: Have fun on your Rando run!
+  text: Have fun on your Rando run!
 - id: 15121
-  en: Poster
+  text: Poster
 - id: 15122
-  en: Have fun on your Rando run!
+  text: Have fun on your Rando run!
 - id: 15123
-  en: Letter
+  text: Letter
 - id: 15124
-  en: A
+  text: A
 - id: 15125
-  en: Naminé´s Sketches
+  text: Naminé´s Sketches
 - id: 15126
-  en: Commissions are open dm me
+  text: Commissions are open dm me
 - id: 15127
-  en: Weed Card
+  text: Weed Card
 - id: 15128
-  en: It's OK
+  text: It's OK
 - id: 15129
-  en: Olympus Stone
+  text: Olympus Stone
 - id: 15130
-  en: Sora got his Driver's license.
+  text: Sora got his Driver's license.
 - id: 15131
-  en: Auron´s Statue
+  text: Auron´s Statue
 - id: 15132
-  en: >-
+  text: >-
     I OWN YOU!
 - id: 15133
-  en: Cursed Medallion
+  text: Cursed Medallion
 - id: 15134
-  en: 881 more to go...
+  text: 881 more to go...
 - id: 15135
-  en: Present
+  text: Present
 - id: 15136
-  en: It better not be what i think it is in there!.
+  text: It better not be what i think it is in there!.
 - id: 15137
-  en: Decoy Presents
+  text: Decoy Presents
 - id: 15138
-  en: FAKE!
+  text: FAKE!
 - id: 15139
-  en: Ice Cream
+  text: Ice Cream
 - id: 15140
-  en: >-
+  text: >-
     The only food in Twilight Town.
 
     Scrooge really did them a favor...
 - id: 15141
-  en: Picture
+  text: Picture
 - id: 15142
-  en: You got the [    ] back!
+  text: You got the [    ] back!
 - id: 15226
-  en: Amogus Charm
+  text: Amogus Charm
 - id: 15227
-  en: EMERGENCY MEETING
-  en: Struggle Sword
+  text: EMERGENCY MEETING
+  text: Struggle Sword
 - id: 15282
-  en: Nerf or Nothingness {:icon weapon-keyblade}
-  en: Auto Valor
+  text: Nerf or Nothingness {:icon weapon-keyblade}
+  text: Auto Valor
 - id: 15307
-  en: Diet Valor
+  text: Diet Valor
 - id: 15308
-  en: Auto Wisdom
+  text: Auto Wisdom
 - id: 15309
-  en: Diet Wisdom
+  text: Diet Wisdom
 - id: 15310
-  en: Auto Master
+  text: Auto Master
 - id: 15311
-  en: Diet Master
+  text: Diet Master
 - id: 15312
-  en: Auto Final
+  text: Auto Final
 - id: 15313
-  en: Diet Final
+  text: Diet Final
 - id: 15314
-  en: Auto Summon
+  text: Auto Summon
 - id: 15315
-  en: SAVE ME CHICKEN LITTLE!
+  text: SAVE ME CHICKEN LITTLE!
 - id: 15316
-  en: Combo Boost
+  text: Combo Boost
 - id: 15317
-  en: Make it hurt
+  text: Make it hurt
 - id: 15318
-  en: Air Combo Boost
+  text: Air Combo Boost
 - id: 15319
-  en: Bonk enhancers
+  text: Bonk enhancers
 - id: 15320
-  en: Reaction Boost
+  text: Reaction Boost
 - id: 15321
-  en: Xaldin hates this!
+  text: Xaldin hates this!
 - id: 15322
-  en: Finishing Plus
+  text: Finishing Plus
 - id: 15323
-  en: Do it again
+  text: Do it again
 - id: 15324
-  en: Negative Combo
+  text: Negative Combo
 - id: 15325
-  en: Get two of these and then go kill Terra
+  text: Get two of these and then go kill Terra
 - id: 15326
-  en: Berserk Charge
+  text: Berserk Charge
 - id: 15327
-  en: This combo ends when I say it ends!
+  text: This combo ends when I say it ends!
 - id: 15328
-  en: Damage Drive
+  text: Damage Drive
 - id: 15329
-  en: Push it to the limit!
+  text: Push it to the limit!
 - id: 15330
-  en: Drive Boost
+  text: Drive Boost
 - id: 15331
-  en: Make your MP bar jealous...
+  text: Make your MP bar jealous...
 - id: 15332
-  en: Form Boost
+  text: Form Boost
 - id: 15333
-  en: Last a little longer.
+  text: Last a little longer.
 - id: 15334
-  en: Summon Boost
+  text: Summon Boost
 - id: 15335
-  en: Friends forever :D
+  text: Friends forever :D
 - id: 15336
-  en: Combination Boost
+  text: Combination Boost
 - id: 15337
-  en: You don't really need that long, anyway...
+  text: You don't really need that long, anyway...
 - id: 15338
-  en: Experience Boost
+  text: Experience Boost
 - id: 15339
-  en: >-
+  text: >-
     Get 100% more EXP!
 
     If you can tolerate the beeping...
 - id: 15340
-  en: Leaf Bracer
+  text: Leaf Bracer
 - id: 15341
-  en: Wait, time out!
+  text: Wait, time out!
 - id: 15342
-  en: Magic Lock-On
+  text: Magic Lock-On
 - id: 15343
-  en: Cast Magnet where you don't want to.
+  text: Cast Magnet where you don't want to.
 - id: 15344
-  en: No Experience
+  text: No Experience
 - id: 15345
-  en: Do it. No balls.
+  text: Do it. No balls.
 - id: 15346
-  en: Draw
+  text: Draw
 - id: 15347
-  en: yoink!
+  text: yoink!
 - id: 15348
-  en: Jackpot
+  text: Jackpot
 - id: 15349
-  en: Drain those Gamblers dry!
+  text: Drain those Gamblers dry!
 - id: 15350
-  en: Lucky Lucky
+  text: Lucky Lucky
 - id: 15351
-  en: Synth drops, amirite?
+  text: Synth drops, amirite?
 - id: 15352
-  en: Fire Boost
+  text: Fire Boost
 - id: 15353
-  en: Fwoosh!
+  text: Fwoosh!
 - id: 15354
-  en: Blizzard Boost
+  text: Blizzard Boost
 - id: 15355
-  en: Deeper freeze!
+  text: Deeper freeze!
 - id: 15356
-  en: Thunder Boost
+  text: Thunder Boost
 - id: 15357
-  en: Zap!
+  text: Zap!
 - id: 15358
-  en: Item Boost
+  text: Item Boost
 - id: 15359
-  en: Who needs Hi-Potions, anyway?
+  text: Who needs Hi-Potions, anyway?
 - id: 15360
-  en: MP Rage
+  text: MP Rage
 - id: 15361
-  en: MP be like >:(
+  text: MP be like >:(
 - id: 15362
-  en: MP Haste
+  text: MP Haste
 - id: 15363
-  en: Hurry up!
+  text: Hurry up!
 - id: 15364
-  en: Defender
+  text: Defender
 - id: 15365
-  en: >-
+  text: >-
     Increases defense by {:color #F0F00080}3{:reset} in a pinch.
 
     Not to be confused with Damage Control.
 - id: 15366
-  en: Second Chance
+  text: Second Chance
 - id: 15367
-  en: that didn't hurt lol
+  text: that didn't hurt lol
 - id: 15368
-  en: Once More
+  text: Once More
 - id: 15369
-  en: Is it safe to press {:icon dynamic-circle} yet?
+  text: Is it safe to press {:icon dynamic-circle} yet?
 - id: 15370
-  en: Auto Limit
+  text: Auto Limit
 - id: 15371
-  en: >-
+  text: >-
     Not to be confused with "Auto Limit"
 
     Completely Different.
 - id: 15372
-  en: Auto Change
+  text: Auto Change
 - id: 15373
-  en: Skeddadle
+  text: Skeddadle
 - id: 15374
-  en: Hyper Healing
+  text: Hyper Healing
 - id: 15375
-  en: GET UP, DONALD!
+  text: GET UP, DONALD!
 - id: 15376
-  en: Auto Healing
+  text: Auto Healing
 - id: 15377
-  en: Take a nap
+  text: Take a nap
 - id: 15378
-  en: MP Hastera
+  text: MP Hastera
 - id: 15379
-  en: COME ON HURRY UP
+  text: COME ON HURRY UP
 - id: 15380
-  en: MP Hastega
+  text: MP Hastega
 - id: 15381
-  en: TURN BLUE DAMNIT AAAAAAAA
-  en: Star Seeker
+  text: TURN BLUE DAMNIT AAAAAAAA
+  text: Star Seeker
 - id: 15867
-  en: Stolen from Mickey
+  text: Stolen from Mickey
 - id: 15868
-  en: Hidden Dragon
+  text: Hidden Dragon
 - id: 15869
-  en: Made in China
+  text: Made in China
 - id: 15870
-  en: Save the Queen
+  text: Save the Queen
 - id: 15871
-  en: The Queen is fine, though...
+  text: The Queen is fine, though...
 - id: 15872
-  en: Save the King
+  text: Save the King
 - id: 15873
-  en: The King can take care of himself...
+  text: The King can take care of himself...
 - id: 15919
-  en: The mark of a (Weenie Hut) Junior Hero
+  text: The mark of a (Weenie Hut) Junior Hero
 - id: 15920
-  en: Monochrome
+  text: Monochrome
 - id: 15921
-  en: Color hadn't been invented yet.
+  text: Color hadn't been invented yet.
 - id: 15922
-  en: Follow the Wind
+  text: Follow the Wind
 - id: 15923
-  en: Yar Har Fiddle Dee Dee
+  text: Yar Har Fiddle Dee Dee
 - id: 15924
-  en: Circle of Life
+  text: Circle of Life
 - id: 15925
-  en: >-
+  text: >-
     You fight like a lion!
 
     A Lion!
 - id: 15926
-  en: Photon Debugger
+  text: Photon Debugger
 - id: 15927
-  en: Give this to Topaz... he needs it.
+  text: Give this to Topaz... he needs it.
 - id: 15928
-  en: Gull Wing
+  text: Gull Wing
 - id: 15929
-  en: >-
+  text: >-
     Wing Wing Wing
 
     Hewwo?
 - id: 15930
-  en: Rumbling Rose
+  text: Rumbling Rose
 - id: 15931
-  en: Get this and then not fight Xaldin
+  text: Get this and then not fight Xaldin
 - id: 15932
-  en: Guardian Soul
+  text: Guardian Soul
 - id: 15933
-  en: Proof of Meddling
+  text: Proof of Meddling
 - id: 15934
-  en: Wishing Lamp
+  text: Wishing Lamp
 - id: 15935
-  en: I wish for more wishes!
+  text: I wish for more wishes!
 - id: 15936
-  en: Decisive Pumpkin
+  text: Decisive Pumpkin
 - id: 15937
-  en: >-
+  text: >-
     heheheh
 
     D.P.
 - id: 15938
-  en: Sleeping Lion
+  text: Sleeping Lion
 - id: 15939
-  en: eepy lion uwu
+  text: eepy lion uwu
 - id: 15940
-  en: Sweet Memories
+  text: Sweet Memories
 - id: 15941
-  en: This keyblade is brought to you by Hunny
+  text: This keyblade is brought to you by Hunny
 - id: 15942
-  en: Mysterious Abyss
+  text: Mysterious Abyss
 - id: 15943
-  en: >-
+  text: >-
     Aren't you glad you
 
     wasted all your fucking time in Atlantica?
 - id: 15944
-  en: Fatal Crest
+  text: Fatal Crest
 - id: 15945
-  en: Must've been one Bad Dragon...
+  text: Must've been one Bad Dragon...
 - id: 15946
-  en: Bond of Flame
+  text: Bond of Flame
 - id: 15947
-  en: >-
+  text: >-
     Yeah, Axel is dead for real this time...
 
     Promise...
 - id: 15948
-  en: Fenrir
+  text: Fenrir
 - id: 15949
-  en: It's Busted...
+  text: It's Busted...
 - id: 15950
-  en: Ultima Weapon
+  text: Ultima Weapon
 - id: 15951
-  en: ULTIMA COSMIC POWER!
+  text: ULTIMA COSMIC POWER!
 - id: 15952
-  en: Struggle Wand
+  text: Struggle Wand
 - id: 15953
-  en: Nerf or Nothingness {:icon magic}
+  text: Nerf or Nothingness {:icon magic}
 - id: 15954
-  en: Struggle Hammer
+  text: Struggle Hammer
 - id: 15955
-  en: Nerf or Nothingness {:icon armor}
+  text: Nerf or Nothingness {:icon armor}
 - id: 15956
-  en: Save the Queen+
+  text: Save the Queen+
 - id: 15957
-  en: The Queen is fine, though...
+  text: The Queen is fine, though...
 - id: 15958
-  en: Save the King+
+  text: Save the King+
 - id: 15959
-  en: The King can take care of himself...
+  text: The King can take care of himself...
 - id: 17204
-  en: >-
+  text: >-
     Super Weenie Hut Juniors.
 
     {:color #F0F00080}(Only the normal ending can be viewed
 
     in this mode.)
 - id: 17205
-  en: >-
+  text: >-
     Weenie Hut Juniors.
 
     {:color #F0F00080}(All endings can be viewed in this mode.)
 - id: 17206
-  en: >-
+  text: >-
     Salty Spitoon.
 
     {:color #F0F00080}(There is a good chance of unlocking
 
     the secret ending.)
 - id: 18043
-  en: Promise Charm
+  text: Promise Charm
 - id: 18044
-  en: Don't go!
+  text: Don't go!
 - id: 18111
-  en: Zoomie Attack! :3
+  text: Zoomie Attack! :3
 - id: 18112
-  en: Dash
+  text: Dash
 - id: 18113
-  en: Get the zoomies with {:icon dynamic-square}.
+  text: Get the zoomies with {:icon dynamic-square}.
 - id: 18122
-  en: Fuck You Grim Reaper 2
+  text: Fuck You Grim Reaper 2
 - id: 18683
-  en: MONETARY GAINS!
+  text: MONETARY GAINS!
 - id: 20009
-  en: just keep mashing {:icon dynamic-cross} until the bad guys are gone
+  text: just keep mashing {:icon dynamic-cross} until the bad guys are gone
 - id: 20010
-  en: Drive Converter
+  text: Drive Converter
 - id: 20011
-  en: Master Form go brrr
+  text: Master Form go brrr
 - id: 20012
-  en: Light & Darkness
+  text: Light & Darkness
 - id: 20013
-  en: Get Final Form and then never use it again.
+  text: Get Final Form and then never use it again.
 - id: 20014
-  en: Damage Control
+  text: Damage Control
 - id: 20015
-  en: 
+  text: 
     Increases defense by {:color #F0F00080}50%{:reset} in a pinch.
 
     Not to be confused with Defender
 - id: 20016
-  en: Critical Mode
+  text: Critical Mode
 - id: 20017
-  en: >-
+  text: >-
     The Saltiest Possible Spitoon
 
     The Game Mode cannot be changed
 
     once the game has started.
 - id: 20018
-  en: Critical Mode
+  text: Critical Mode
 - id: 20019
-  en: Critical Mode
+  text: Critical Mode
 - id: 20020
-  en: >-
+  text: >-
     The Saltiest Possible Spitoon
 
     {:color #F0F00080}(There is a great chance of unlocking
 
     the secret ending.)
 - id: 20021
-  en: Two Become One
+  text: Two Become One
 - id: 20022
-  en: Awesome looking Keyblade with a shit ability
+  text: Awesome looking Keyblade with a shit ability
 - id: 20023
-  en: Winner's Proof
+  text: Winner's Proof
 - id: 20024
-  en: >-
+  text: >-
     A cute keyblade!
 
     Not mushroom for debate...
 - id: 20083
-  en: Nothin personel, kid
+  text: Nothin personel, kid
 - id: 20084
-  en: Aerial Dive
+  text: Aerial Dive
 - id: 20085
-  en: >-
+  text: >-
     Lets you use a spiral attack
 
     on enemies in the air.
 - id: 20086
-  en: Magnet Burst
+  text: Magnet Burst
 - id: 20087
-  en: >-
+  text: >-
     Get over here!
 
     And then away from here!
 - id: 20088
-  en: Vicinity Break
+  text: Vicinity Break
 - id: 20089
-  en: Draw an Anti-Heartless Circle
+  text: Draw an Anti-Heartless Circle
 - id: 20098
-  en: Nastalgia Power!
+  text: Nastalgia Power!
 - id: 20108
-  en: >-
+  text: >-
     Not to be confused with Auto Limit.
 
     No relation
-  en: Proof of Connection
+  text: Proof of Connection
 - id: 20398
-  en: When you walk away
+  text: When you walk away
 - id: 20399
-  en: '{:width 90}Proof of Nonexistence'
+  text: '{:width 90}Proof of Nonexistence'
 - id: 20400
-  en: You don't hear me say
+  text: You don't hear me say
 - id: 20401
-  en: Proof of Peace
+  text: Proof of Peace
 - id: 20402
-  en: >-
+  text: >-
     PLEEEEEEEEEEEEASE
 
     OH BABY!
