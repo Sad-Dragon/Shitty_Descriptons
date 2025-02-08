@@ -209,7 +209,7 @@
 - id: 12932
   en: GET UP ON THE HYDRAS BACK
 - id: 13044
-  en: How come Donald gets KH1 Fire? {:color #F0F00080}MP Cost: 10{:reset}
+  en: Worse than regular fire? {:color #F0F00080}MP Cost: 10{:reset}
 - id: 13045
   en: Donald Blizzard
 - id: 13046
@@ -388,7 +388,7 @@
 - id: 14739
   en: Explosion
 - id: 14740
-  en: SKIBBIDI BOP MM DADA
+  en: Oh man, this blew up!
 - id: 14741
   en: Finishing Leap
 - id: 14742
@@ -457,7 +457,7 @@
   en: AP Boost
 - id: 14820
   en: >-
-     Snack on like 20 of these at once.
+     Snack on like 20 of these at once like blueberries.
 
      Don't give this to Donald or Goofy.
 - id: 14924
@@ -501,7 +501,7 @@
 - id: 15135
   en: Present
 - id: 15136
-  en: It better not be what I think it is in there!.
+  en: A Box!? I love boxes!
 - id: 15137
   en: Decoy Presents
 - id: 15138
@@ -518,9 +518,9 @@
 - id: 15142
   en: You got the [     ] back!
 - id: 15226
-  en: Amogus Charm
+  en: Basedball Charm
 - id: 15227
-  en: EMERGENCY MEETING
+  en: His movie wasn't even out yet on release...
 - id: 15282
   en: Nerf or Nothingness {:icon weapon-keyblade}
 - id: 15307
@@ -709,7 +709,7 @@
 - id: 15924
   en: Circle of Life
 - id: 15925
-  en: The barcode says e621...
+  en: The keychain says e621...
 - id: 15926
   en: Photon Debugger
 - id: 15927
@@ -752,9 +752,9 @@
   en: Mysterious Abyss
 - id: 15943
   en: >-
-     Arent you glad you
+     Sorry Mommy.
 
-     wasted all your fucking time in Atlantica?
+     Your poopsies are toast!
 - id: 15944
   en: Fatal Crest
 - id: 15945
